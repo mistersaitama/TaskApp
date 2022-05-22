@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TaskApp</string>
+    <string name="edit">edit</string>
+    <string name="name">name</string>
+    <string name="get_all">get_all</string>
+    <string name="get">get</string>
+    <string name="add">add</string>
+    <string name="remove">remove</string>
+</resources>
